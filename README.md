@@ -4,10 +4,10 @@ A small python-flask microservice app.
 
 ## Project Structure
 The Python Flask based microservices project is composed of the following 4 projects: 
-#### frontend
-#### user-service
-#### product-service
-#### order-service
+* ""frontend""
+* ""user-service""
+* ""product-service""
+* ""order-service""
 
 ## Microservices Setup and Configuration
 To launch the end-to-end microservices application perform the following:
@@ -93,4 +93,3 @@ The following Python extensions were used:
 * Flask-Migrate: https://github.com/miguelgrinberg/flask-migrate/
 * Requests: https://requests.readthedocs.io/en/master/
 
-The course guiding through the [project](https://cloudacademy.com/dashboard)
