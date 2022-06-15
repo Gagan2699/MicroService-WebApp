@@ -76,7 +76,7 @@ http://localhost:5000/login
 ### Step 9.
 Back within your terminal, use a mysql client to confirm that a new order has been created:
 ```
-mysql --host=127.0.0.1 --port=32002 --user=cloudacademy --password=pfm_2020
+mysql --host=127.0.0.1 --port=32002 --user=user26 --password=pfm_2020
 mysql> show databases;
 mysql> use order;
 mysql> show tables;
